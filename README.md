@@ -38,7 +38,7 @@
 
 ### 🙄 ᴅᴇᴍᴏ/ᴛᴇsᴛ ʙᴏᴛ
   
-  [sᴛʀɪɴɢ ʙᴏᴛ 🍑](https://telegram.me/@MusicMissAnu_bot)
+  [sᴛʀɪɴɢ ʙᴏᴛ 🍑](https://telegram.me/@StringsessionBlack_bot)
 
 ```
 Atleast Give A Star and Fork The Repo 🖤
