@@ -18,7 +18,7 @@ Tʜɪs ɪs {me2},
 Aɴ ᴏᴘᴇɴ sᴏᴜʀᴄᴇ sᴛʀɪɴɢ sᴇssɪᴏɴ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ, ᴡʀɪᴛᴛᴇɴ ɪɴ ᴩʏᴛʜᴏɴ ᴡɪᴛʜ ᴛʜᴇ ʜᴇʟᴩ ᴏғ ᴩʏʀᴏɢʀᴀᴍ.
 ᴊɪsᴋᴇ ᴊᴀɪʙ ᴍᴇ ɢᴀɴᴅʜɪ  ᴄʜᴏʀɪ ᴜsᴋᴇ ᴘʏᴀᴀʀ ᴍᴇ ᴀᴀɴᴅʜɪ 🖤.
 
-Mᴀᴅᴇ ᴡɪᴛʜ ❤ ʙʏ : [Black Lover](https://t.me/saikosaiyan) !""",
+Mᴀᴅᴇ ᴡɪᴛʜ ❤ ʙʏ : [Black Lover](https://t.me/Blacklover_uff) !""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
@@ -26,7 +26,7 @@ Mᴀᴅᴇ ᴡɪᴛʜ ❤ ʙʏ : [Black Lover](https://t.me/saikosaiyan) !""",
                 ],
                 [
                     InlineKeyboardButton("sᴏᴜʀᴄᴇ", url="https://t.me/BlackMusicSupport"),
-                    InlineKeyboardButton("ᴅᴇᴠᴇʟᴏᴩᴇʀ", url="https://t.me/saikosaiyan")
+                    InlineKeyboardButton("ᴅᴇᴠᴇʟᴏᴩᴇʀ", url="https://t.me/Blacklover_uff")
                 ]
             ]
         ),
