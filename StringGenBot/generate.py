@@ -37,15 +37,15 @@ import config
 ask_ques = "**» ᴘᴀʏʀᴏ ʜɪ ʟᴇ ʟᴇ ᴛᴇʟᴇᴛʜᴏɴ sᴇ ᴛᴇʀɪ ɢᴀɴᴅ ғᴀᴛ sᴀᴋᴛɪ ʜᴀɪ ᴏʀᴅᴇʀ ʙʏ ʙʟᴀᴄᴋ ʟᴏᴠᴇʀ :**"
 buttons_ques = [
     [
-        InlineKeyboardButton("ᴩʏʀᴏɢʀᴀᴍ", callback_data="pyrogram1"),
+        InlineKeyboardButton("ᴩʏʀᴏɢʀᴀᴍ ᴠ1", callback_data="pyrogram1"),
         InlineKeyboardButton("ᴩʏʀᴏɢʀᴀᴍ ᴠ2", callback_data="pyrogram"),
     ],
     [
         InlineKeyboardButton("ᴛᴇʟᴇᴛʜᴏɴ", callback_data="telethon"),
     ],
     [
-        InlineKeyboardButton("ᴩʏʀᴏɢʀᴀᴍ ʙᴏᴛ", callback_data="pyrogram_bot"),
-        InlineKeyboardButton("ᴛᴇʟᴇᴛʜᴏɴ ʙᴏᴛ", callback_data="telethon_bot"),
+        InlineKeyboardButton("ᴩʏʀᴏɢʀᴀᴍ ʙᴏᴛ", callback_data="https://t.me/BlackLoverStringSeassion_bot"),
+        InlineKeyboardButton("ᴛᴇʟᴇᴛʜᴏɴ ᴍᴜsɪᴄ ʙᴏᴛ", callback_data="https://t.me/BlackLoverUser_bot"),
     ],
 ]
 
