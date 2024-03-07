@@ -44,8 +44,8 @@ buttons_ques = [
         InlineKeyboardButton("ᴛᴇʟᴇᴛʜᴏɴ", callback_data="telethon"),
     ],
     [
-        InlineKeyboardButton("ᴩʏʀᴏɢʀᴀᴍ ʙᴏᴛ", callback_data="https://t.me/BlackLoverStringSeassion_bot"),
-        InlineKeyboardButton("ᴛᴇʟᴇᴛʜᴏɴ ᴍᴜsɪᴄ ʙᴏᴛ", callback_data="https://t.me/BlackLoverUser_bot"),
+        InlineKeyboardButton("ᴩʏʀᴏɢʀᴀᴍ ʙᴏᴛ", callback_data="pyrogram1"),
+        InlineKeyboardButton("ᴛᴇʟᴇᴛʜᴏɴ  ʙᴏᴛ", callback_data="telethon"),
     ],
 ]
 
