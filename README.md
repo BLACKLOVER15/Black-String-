@@ -1,6 +1,6 @@
 <h1 align="center"><b>🖤 BLACK LOVER STRING SESSION BOT 🖤</b></h1>
 <p align="center">
-  <img src="https://graph.org/file/a5d4298f56c43ef8501fe.jpg" alt="StringGen">
+  <img src="https://te.legra.ph/file/4b91ba6ee72587d382c61.jpg" alt="StringGen">
 </p>
 ## ʀᴇᴘᴏ sᴛᴀᴛs
 <a href="https://github.com/BLACKLOVER15/Black-String-"><img src="https://github-readme-stats.vercel.app/api/pin/?username=BLACKLOVER15&repo=Black-String-&theme=chartreuse-dark"></a>
